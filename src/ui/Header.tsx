@@ -7,7 +7,7 @@ export default function Header() {
           <h2 className="text-[18px] font-bold text-[#000112] dark:text-[#FFFFFF]">
             Platform Launch
           </h2>
-          <img src="/assets/icon-chevron-up.svg" alt="" />
+          <img src="/assets/icon-chevron-down.svg" alt="arrow-down" />
         </div>
       </div>
       <div className="flex items-center gap-[16px]">
