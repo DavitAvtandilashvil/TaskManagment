@@ -3,7 +3,7 @@ import Header from "./ui/Header";
 
 export default function AppLayout() {
   return (
-    <div>
+    <div className="dark">
       <div>
         <Header />
       </div>
